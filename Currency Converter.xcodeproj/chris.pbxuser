@@ -1,0 +1,219 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 83FBF2990DBDDCF30099F981 /* Currency Converter */;
+		activeTarget = 8D1107260486CEB800E47090 /* Currency Converter */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Currency Converter */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 83FBF2A60DBDDD120099F981 /* Code sense */;
+		executables = (
+			83FBF2990DBDDCF30099F981 /* Currency Converter */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					662,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 230716340;
+			PBXWorkspaceStateSaveDate = 230716340;
+		};
+		perUserProjectItems = {
+			8328CEB90DC0877000EA7DB2 /* PBXBookmark */ = 8328CEB90DC0877000EA7DB2 /* PBXBookmark */;
+			8328CEC20DC08AB700EA7DB2 /* PBXTextBookmark */ = 8328CEC20DC08AB700EA7DB2 /* PBXTextBookmark */;
+			8328CEC70DC08AEA00EA7DB2 /* PBXTextBookmark */ = 8328CEC70DC08AEA00EA7DB2 /* PBXTextBookmark */;
+			8328CECB0DC08BD600EA7DB2 /* PBXTextBookmark */ = 8328CECB0DC08BD600EA7DB2 /* PBXTextBookmark */;
+			83BD46150DC073AC00A28EA2 = 83BD46150DC073AC00A28EA2 /* PBXTextBookmark */;
+			83BD46170DC073AC00A28EA2 = 83BD46170DC073AC00A28EA2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 83FBF2A50DBDDD120099F981 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{205, 0}";
+			sepNavVisRange = "{0, 267}";
+			sepNavWindowFrame = "{{429, 245}, {750, 558}}";
+		};
+	};
+	8328CEB90DC0877000EA7DB2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 83FBF2A90DBDDDEE0099F981 /* Converter.h */;
+	};
+	8328CEC20DC08AB700EA7DB2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 83FBF2A90DBDDDEE0099F981 /* Converter.h */;
+		name = "Converter.h: 18";
+		rLen = 0;
+		rLoc = 356;
+		rType = 0;
+		vrLen = 448;
+		vrLoc = 0;
+	};
+	8328CEC70DC08AEA00EA7DB2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 83FBF2A90DBDDDEE0099F981 /* Converter.h */;
+		name = "Converter.h: 18";
+		rLen = 0;
+		rLoc = 356;
+		rType = 0;
+		vrLen = 448;
+		vrLoc = 0;
+	};
+	8328CECB0DC08BD600EA7DB2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 83FBF2A90DBDDDEE0099F981 /* Converter.h */;
+		name = "Converter.h: 18";
+		rLen = 0;
+		rLoc = 356;
+		rType = 0;
+		vrLen = 448;
+		vrLoc = 0;
+	};
+	83BD46150DC073AC00A28EA2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 83BD46160DC073AC00A28EA2 /* InfoPlist.strings */;
+		rLen = 0;
+		rLoc = 2147483647;
+		rType = 0;
+	};
+	83BD46160DC073AC00A28EA2 /* InfoPlist.strings */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.strings;
+		name = InfoPlist.strings;
+		path = /Users/chris/Downloads/SimpleCocoaApp/English.lproj/InfoPlist.strings;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 521}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 172}";
+			sepNavWindowFrame = "{{71, 224}, {1023, 649}}";
+		};
+	};
+	83BD46170DC073AC00A28EA2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 83BD46180DC073AC00A28EA2 /* InfoPlist.strings */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 172;
+		vrLoc = 0;
+	};
+	83BD46180DC073AC00A28EA2 /* InfoPlist.strings */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.strings;
+		name = InfoPlist.strings;
+		path = /Users/chris/Downloads/SimpleCocoaApp/English.lproj/InfoPlist.strings;
+		sourceTree = "<absolute>";
+	};
+	83FBF2990DBDDCF30099F981 /* Currency Converter */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Currency Converter";
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	83FBF2A50DBDDD120099F981 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	83FBF2A60DBDDD120099F981 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	83FBF2A90DBDDDEE0099F981 /* Converter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{356, 0}";
+			sepNavVisRange = "{0, 448}";
+			sepNavWindowFrame = "{{401, 229}, {750, 558}}";
+		};
+	};
+	83FBF2AA0DBDDDEE0099F981 /* Converter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 434}}";
+			sepNavSelRange = "{149, 0}";
+			sepNavVisRange = "{0, 709}";
+			sepNavWindowFrame = "{{391, 142}, {750, 558}}";
+		};
+	};
+	83FBF2B20DBDE5BF0099F981 /* ConverterController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 462}}";
+			sepNavSelRange = "{290, 0}";
+			sepNavVisRange = "{29, 591}";
+			sepNavWindowFrame = "{{247, 235}, {750, 558}}";
+		};
+	};
+	83FBF2B30DBDE5BF0099F981 /* ConverterController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 574}}";
+			sepNavSelRange = "{495, 0}";
+			sepNavVisRange = "{3, 995}";
+			sepNavWindowFrame = "{{197, 146}, {1023, 649}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* Currency Converter */ = {
+		activeExec = 0;
+		executables = (
+			83FBF2990DBDDCF30099F981 /* Currency Converter */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 521}}";
+			sepNavSelRange = "{399, 0}";
+			sepNavVisRange = "{0, 859}";
+			sepNavWindowFrame = "{{71, 224}, {1023, 649}}";
+		};
+	};
+}
